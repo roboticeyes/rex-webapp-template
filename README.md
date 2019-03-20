@@ -9,9 +9,12 @@ The only requirements are:
 * REST client
 
 In order to successfully connect your app with REX, you have to have a valid REX account.
-In order to get your clientId and clientSecret, currently need to contact support@robotic-eyes.com.
+In order to get your clientId and clientSecret, please register your new web app by sending
+a request to support@robotic-eyes.com.
 
 In future REX releases, you will be able to register your app directly from the REX webportal.
+
+**Please keep in mind that you cannot use your API token for this purpose!**
 
 ## Build/Start
 
